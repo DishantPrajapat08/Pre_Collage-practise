@@ -7,10 +7,17 @@ int main()
 
     // Multiple operations in one line
 
-    cout<<"The operation is "<<endl;
-    cout<<++a + ++b;
-    cout<<c;
+    cout<<"The operation1 is "<<endl;
+    cout<<++a + b<<endl;
 
+    cout<<"The operation2 is "<<endl;
+    cout<<(a<=b)<<endl;
+
+    cout<<" The operation3 is "<<endl;
+    cout<<((a<=b)&&(b<=c))<<endl;
+
+
+    
 
 return 0;
 }
