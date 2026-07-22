@@ -16,6 +16,9 @@ int main()
     cout<<" The operation3 is "<<endl;
     cout<<((a<=b)&&(b<=c))<<endl;
 
+    cout<<" The operation3 is "<<endl;
+    cout<<((a<=b)||(b<=c))<<endl;
+
 
     
 return 0;
