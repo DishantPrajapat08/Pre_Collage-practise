@@ -8,9 +8,9 @@ int main()
     // Multiple operations in one line
 
     cout<<"The operation is "<<endl;
-    cout<<a++ + b<<endl;
+    cout<<++a + ++b<<endl;
     cout<<c;
+    
 
-
-
+return 0;
 }
