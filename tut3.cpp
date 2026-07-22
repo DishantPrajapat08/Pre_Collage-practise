@@ -10,7 +10,7 @@ int main()
     cout<<"The operation is "<<endl;
     cout<<a++ + b<<endl;
     cout<<c;
-    
+
 
 
 }
