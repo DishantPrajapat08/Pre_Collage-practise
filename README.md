@@ -1,2 +1,2 @@
-# Pre_Collage-practise
+# Practise
 Trying coding and git
