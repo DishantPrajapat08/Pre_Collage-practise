@@ -20,11 +20,11 @@ int main()
     cout<< b/a<<endl;
 
     cout<< "The Operation of a and b is"<<endl;
-    cout<< b%a<<endl;
+    cout<< b%a<<endl;   
 
     
-
-
+    
+    
     
     return 0;
 
