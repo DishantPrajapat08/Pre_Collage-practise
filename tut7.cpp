@@ -25,6 +25,11 @@ int main(){
 cout<<a<<endl;
  }
 
+for(int a=6;(a<=100);a++)
+
+   if(a%6==0){
+cout<<a++<<endl;
+}
  
     return 0;
 }
