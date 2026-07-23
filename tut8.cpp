@@ -1,4 +1,4 @@
-// Pointers,arrays
+// Pointers
 # include <iostream>
 using namespace std;
 
